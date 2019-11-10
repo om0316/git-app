@@ -6,10 +6,12 @@ class ArticlesController < ApplicationController
   end
 
   def show
+    231213213
   end
 
   def new
     @article = Article.new
+    424324243242
   end
 
   def edit
