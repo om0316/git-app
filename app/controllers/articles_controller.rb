@@ -14,6 +14,7 @@ class ArticlesController < ApplicationController
   end
 
   def edit
+    dfsfdsfs
   end
 
   def create
