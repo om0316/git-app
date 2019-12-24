@@ -11,13 +11,10 @@ class ArticlesController < ApplicationController
 
   def new
     @article = Article.new
-    424324243242
   end
 
   def edit
     dfsfdsfs
-
-    ggggggg
   end
 
   def create
