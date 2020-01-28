@@ -6,17 +6,14 @@ class ArticlesController < ApplicationController
   end
 
   def show
-   kokokokokokokok
+    1234556789
   end
 
   def new
     @article = Article.new
-    kkkkkkkkkkkkkkkkk
-    l
   end
 
   def edit
-    dfsfdsfs
   end
 
   def create
