@@ -12,7 +12,7 @@ class ArticlesController < ApplicationController
   def new
     @article = Article.new
     kkkkkkkkkkkkkkkkk
-    llllllllllll
+    l
   end
 
   def edit
