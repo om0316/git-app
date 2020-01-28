@@ -6,8 +6,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
-      mmmmmmmmmmmmmmmmmmmmmmmmmmm
-      kkkkkkkkkkkk
+   llplplplplplp
   end
 
   def new
