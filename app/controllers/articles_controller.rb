@@ -6,12 +6,13 @@ class ArticlesController < ApplicationController
   end
 
   def show
-   llplplplplplp
+   kokokokokoo
   end
 
   def new
     @article = Article.new
     kkkkkkkkkkkkkkkkk
+    llllllllllll
   end
 
   def edit
