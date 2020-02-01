@@ -6,7 +6,6 @@ class ArticlesController < ApplicationController
   end
 
   def show
-     lplppppppppp
   end
 
   def new
@@ -14,6 +13,7 @@ class ArticlesController < ApplicationController
   end
 
   def edit
+    edit
   end
 
   def create
