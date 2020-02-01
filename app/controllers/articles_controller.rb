@@ -6,8 +6,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
-    1234556789
-    3456677789
+kkkkkkkkkkkkkkk
   end
 
   def new
