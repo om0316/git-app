@@ -6,6 +6,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
+    kokokokokokokokokkkkokokk
   end
 
   def new
