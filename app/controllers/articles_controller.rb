@@ -6,7 +6,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
-    kokokokokokokokokkkkokokk
+    12343535353
   end
 
   def new
@@ -14,7 +14,7 @@ class ArticlesController < ApplicationController
   end
 
   def edit
-    editeditd
+    kokokokokokokokokokkokoo
   end
 
   def create
