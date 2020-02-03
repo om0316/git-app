@@ -14,7 +14,7 @@ class ArticlesController < ApplicationController
   end
 
   def edit
-    こここk
+    ８９０
   end
 
   def create
