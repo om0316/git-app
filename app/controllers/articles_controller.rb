@@ -3,10 +3,10 @@ class ArticlesController < ApplicationController
 
   def index
     @articles = Article.all
+    index
   end
 
   def show
-    12343535353
   end
 
   def new
@@ -14,7 +14,6 @@ class ArticlesController < ApplicationController
   end
 
   def edit
-    ８９０
   end
 
   def create
