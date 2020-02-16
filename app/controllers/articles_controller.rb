@@ -7,7 +7,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
-    test
+    1234567890
   end
 
   def new
